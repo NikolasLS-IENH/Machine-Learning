@@ -1,0 +1,37 @@
+Desenvolva um projeto prático aplicando técnicas de machine learning  para resolver um problema escolhido livremente.  
+
+INSTRUÇÕES
+
+1. Escolha do Problema e Objetivo: 
+Cada um deve escolher um problema ou questão que deseja investigar, como prever um resultado, classificar dados, detectar padrões ou gerar recomendações.
+2. Seleção do Dataset:
+O dataset deve ser único para cada aluno. Não será permitido o uso de datasets iguais, portanto, cada aluno deverá comentar nessa atividade para que os demais colegas vejam. Em caso de repetição, será dado preferência para o aluno que comentou primeiro.
+O dataset pode ser obtido na internet ou ainda ser um dataset original criado pelo aluno.
+Não poderá ser utilizado nenhum dataset utilizado em aula.
+O dataset deve conter uma quantidade razoável de dados para análise e modelagem.
+3. Pré-processamento e Exploração dos Dados:
+
+Cada aluno deve realizar uma análise exploratória dos dados, incluindo:
+Análise de variáveis (tipos, valores ausentes, distribuição).
+Visualizações (gráficos, histogramas, correlações).
+O pré-processamento pode incluir limpeza de dados, normalização ou padronização e, se necessário, a manipulação de dados para melhorar a performance do modelo.
+4. Desenvolvimento do Modelo de Machine Learning:
+Escolha de um modelo adequado (regressão, classificação, etc.).
+Divisão dos dados em conjunto de treino e teste.
+Treinamento do modelo.
+5. Avaliação do Modelo:
+Aplicar métricas de avaliação para avaliar o modelo (ex.: acurácia, matriz de confusão).
+Analisar os resultados, interpretando o desempenho e propondo melhorias ou ajustes (se necessário).
+ENTREGA E AVALIAÇÃO
+
+Relatório ( nota 1):
+Problema e objetivo do projeto.
+Descrição do dataset e justificativa para sua escolha.
+Análise exploratória e pré-processamento dos dados.
+Descrição do modelo escolhido e processo de treinamento.
+Resultados e análise da performance do modelo.
+Código (nota 2):
+Entregar o código desenvolvido e o dataset utilizado.
+Apresentação (nota 3): 
+Apresentar o projeto para a turma na aula
+A apresentação é livre.
